@@ -1,0 +1,7 @@
+Set of minimal conflicts = {{d}, {e, g}, {e, h}}
+
+								false
+								/   \
+							   a	b, c_____
+							  /	   /  / \	 \
+							 d	  e	 g   h   d, f
